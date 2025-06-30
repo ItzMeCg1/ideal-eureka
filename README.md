@@ -1,4 +1,4 @@
-# 🎲 gambler_cg — Welcome to the Chaos
+# 🎲 Welcome to the Chaos
 
 Yo. This is the official zone of code experiments by **gambler_cg**.  
 If you’re seeing this, congrats — you’ve found the vault.
